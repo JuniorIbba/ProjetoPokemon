@@ -139,3 +139,7 @@ body {
     max-height: 115px;
     overflow-y: auto;
 }
+
+.song {
+    text-align: center;
+}
